@@ -14,5 +14,5 @@ Extracts photometry data for all the hipparcos stars, over 118000. This code wil
 The data extracted will be over 2GB, I would suggest leaving it to run overnight.
 I am working on implementing this is Pyspark but the delay is due to the fact that we have to request and extract the file from
 the server.
-
+I haven't uploaded all the photometry data as its well over 2GB.
 
