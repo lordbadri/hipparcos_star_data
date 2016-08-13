@@ -5,6 +5,8 @@
 Extracts all the hipparcos photometry data for planet hosting hipparcos stars and saves it into the directory.
 I have uploaded the data files the program extracts hip_planet_host_data
 I recommend running this code once a week as the servers get updated weekly, and new exoplanet host stars will be flagged.
+The naming cconvention I have followed is as HIP_star-number_number-of-planets.tbl
+
 
 #HIP_all_stars.m 
 
